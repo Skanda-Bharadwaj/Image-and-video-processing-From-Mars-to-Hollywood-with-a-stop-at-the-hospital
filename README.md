@@ -1,0 +1,2 @@
+# Image-and-video-processing-From-Mars-to-Hollywood-with-a-stop-at-the-hospital
+This is the Image Processing course from Duke University by Guillermo Sapiro. I've included all quiz and assignment questions. I don't have my assignments in order. I've taken it from someone else and I really don't remember who that is. Whoever it is - Thanks a lot for keeping it so clean. Intention here is to only help those who are interested to learn.
